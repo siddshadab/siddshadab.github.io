@@ -126,7 +126,7 @@ a:focus {
 }
 
 .navbar .navbar-brand span {
-    color: #513D2A;
+    color: #BD9A7A;
 }
 
 .navbar .navbar-brand:hover {
@@ -164,7 +164,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #513D2A;
+        color: #BD9A7A;
     }
     
     .navbar.nav-sticky .navbar-brand {
@@ -239,6 +239,7 @@ a:focus {
 .carousel .carousel-item {
     position: relative;
     width: 100%;
+	width: 100vw;
     height: 100vh;
     display: flex;
     align-items: center;
